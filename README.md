@@ -1,4 +1,5 @@
 # QuanLyTourDuLich_XDMHPL
+<p align="center">
 <img src="img/i (1).jpg" style="width: 100%;" alt="">
 <img src="img/i (2).jpg" style="width: 100%;" alt="">
 <img src="img/i (3).jpg" style="width: 100%;" alt="">
@@ -8,3 +9,4 @@
 <img src="img/i (7).jpg" style="width: 100%;" alt="">
 <img src="img/i (8).jpg" style="width: 100%;" alt="">
 <img src="img/i (9).jpg" style="width: 100%;" alt="">
+</p>
