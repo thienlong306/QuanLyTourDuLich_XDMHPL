@@ -1,21 +1,37 @@
-# QuanLyTourDuLich_XDMHPL
-<p align="center">
-##Trang Chủ
-<img src="https://github.com/thienlong306/QuanLyTourDuLich_XDMHPL/blob/main/Img/i%20(1).jpg"  alt="">
-##Thống Kê
-<img src="https://github.com/thienlong306/QuanLyTourDuLich_XDMHPL/blob/main/Img/i%20(2).jpg"  alt="">
-##Danh sách Tour
-<img src="https://github.com/thienlong306/QuanLyTourDuLich_XDMHPL/blob/main/Img/i%20(3).jpg"  alt="">
-##Danh sách Khách hàng
-<img src="https://github.com/thienlong306/QuanLyTourDuLich_XDMHPL/blob/main/Img/i%20(4).jpg"  alt="">
-##Trình trạng Đoàn
-<img src="https://github.com/thienlong306/QuanLyTourDuLich_XDMHPL/blob/main/Img/i%20(5).jpg"  alt="">
-##Danh sách Nhân Viên
-<img src="https://github.com/thienlong306/QuanLyTourDuLich_XDMHPL/blob/main/Img/i%20(6).jpg"  alt="">
-##Danh sách Đoàn
-<img src="https://github.com/thienlong306/QuanLyTourDuLich_XDMHPL/blob/main/Img/i%20(7).jpg"  alt="">
-##Danh sách Địa Điểm
-<img src="https://github.com/thienlong306/QuanLyTourDuLich_XDMHPL/blob/main/Img/i%20(8).jpg"  alt="">
-##Danh sách Chi Phí
-<img src="https://github.com/thienlong306/QuanLyTourDuLich_XDMHPL/blob/main/Img/i%20(9).jpg"  alt="">
-</p>
+
+![Logo](https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/26/af/2b/26af2b0d-cc10-6f85-6788-42d6b73d6660/iMessage_App_Icon-0-0-1x_U007emarketing-0-0-0-0-0-3-sRGB-0-0-0-GLES2_U002c0-512MB-85-181-0-0.png/266x200bb.jpeg)
+
+
+# Tour Manager
+
+Build an MVC Application. Manage tours, groups, customers, employees, costs, locations, group status and statistics.
+
+
+
+## Features
+
+- Add
+- Remove
+- Update
+- Search
+- Statistics
+- Group status
+
+## Installation
+```bash
+  Import my .sql on xampp
+  Open folder TourDuLich
+  Add lib mysql-connector.jar
+  Run
+```
+
+    
+## Screenshots
+
+![App Screenshot](https://github.com/thienlong306/QuanLyTourDuLich_XDMHPL/blob/main/Img/i%20(1).jpg)
+![App Screenshot](https://github.com/thienlong306/QuanLyTourDuLich_XDMHPL/blob/main/Img/i%20(2).jpg)
+![App Screenshot](https://github.com/thienlong306/QuanLyTourDuLich_XDMHPL/blob/main/Img/i%20(3).jpg)
+![App Screenshot](https://github.com/thienlong306/QuanLyTourDuLich_XDMHPL/blob/main/Img/i%20(4).jpg)
+
+
+
